@@ -1,3 +1,7 @@
+# 🚀 My Cool Project
+
+🔗 **Live Demo:** [Click here to view](https://github.com/Aakash2618/GeoLocationApp)
+
 # GeoExplorer
 
 GeoExplorer is a modern, interactive web application built with React and TypeScript that allows users to explore geographic locations on a map. Leveraging the power of Leaflet and OpenStreetMap, GeoExplorer provides an intuitive interface for searching locations, viewing user position, and interacting with map markers.
