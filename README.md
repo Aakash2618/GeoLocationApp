@@ -1,6 +1,6 @@
 # 🚀 My Cool Project
 
-🔗 **Live Demo:** [Click here to view](https://github.com/Aakash2618/GeoLocationApp)
+🔗 **Live Demo:** [Click here to view](https://geo-location-app-tau.vercel.app/)
 
 # GeoExplorer
 
